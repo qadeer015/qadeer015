@@ -3,7 +3,7 @@
 
 
 <div align="center" dir="auto">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=najam015&label=Profile%20views&&amp;labelColor=%23000&amp;countColor=%230A0209" alt="najam015" style="max-width: 100%;" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdulQadeeeer&label=Profile%20views&&amp;labelColor=%23000&amp;countColor=%230A0209" alt="AbdulQadeeeer" style="max-width: 100%;" /> </p>
   
   <br><br>
   
@@ -18,14 +18,14 @@
 
 <div dir="auto">
 <p dir="auto"><i>&nbsp; Building solutions with open source.</i> <br><br></p>
-<p dir="auto">👋 Hi! I'm Najam Ahmed , a full-stack developer from Pakistan, super into Open Source, and working as a Technical writer for international brands.</p>
+<p dir="auto">👋 Hi! I'm Abdul Qadeer , a full-stack developer from Pakistan, super into Open Source, and working as a Technical writer for international brands.</p>
 <p dir="auto">🔥 I have worked with more than 8 international teams like <a href="https://github.com/dreamslab-us">dreamslab</a>, <a href="https://autopartify.com/">autopartify</a>, <a href="https://github.com/winglang/wing">Wing</a>, <a href="https://github.com/latitude-dev/latitude">Latitude</a>, reaching an audience of over <em>350k</em>. If you need a technical writer, DM me on Twitter or LinkedIn.</p>
 <p dir="auto">📈 &nbsp; I'm also building my community for open source developers and technical writers at <a href="https://discord.gg/49PBDrtr" rel="nofollow">dub.sh/penduDev</a>.</p>
 <p dir="auto">🔖 &nbsp; As a top author on <a href="https://dev.to/" rel="nofollow">dev.to/</a>, my content has been featured in prestigious communities like GitHub, resulting in a follower base of over <em>30k+</em> within 6 months.</p>
 <p dir="auto">🚀 &nbsp; I've established myself in the <a href="#">Top 5%</a> of GitHub by contributing to <em>40+</em> projects with <em>200+</em> Pull Requests, participating in <em>500+</em> discussions, and earning a lot of reputation.</p>
 <p dir="auto">🎓 &nbsp; A 100% scholar in CS, I've played a crucial role as a maintainer &amp; contributor of <a href="https://autopartify.com/">autopartify</a> to turn it into an open source success story.</p>
 <p dir="auto">🤝 &nbsp; I have learned a lot about the Open Source ecosystem during the past 2 years so I'm guiding others to start their journey with open source in multiple communities on Discord &amp; WhatsApp.</p>
-<p dir="auto">🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow <code>"1% every day"</code> on <a href="https://twitter.com/najam_ahmed015" rel="nofollow">Twitter</a> and <a href="https://www.linkedin.com/in/" rel="nofollow">LinkedIn</a>. Be sure to follow me there for daily insightful tips!</p>
+<p dir="auto">🎁 &nbsp; I create helpful tips on open source, write about 2 open source projects daily, and a lot more to help you grow <code>"1% every day"</code> on <a href="#" rel="nofollow">Twitter</a> and <a href="https://www.linkedin.com/in/" rel="nofollow">LinkedIn</a>. Be sure to follow me there for daily insightful tips!</p>
 <p dir="auto">🏆 &nbsp; I secured <a href="https://gssoc.girlscript.tech/" rel="nofollow">11th Rank</a> in GSSoC'23 (contributor) with 100+ PRs, did mentoring for <a href="https://github.com/">WebXDAO</a>, and created content as a core team member (GSSoC'23 Team) for <em>200k+</em> audiences.</p>
 <p dir="auto">🎯 &nbsp; I built <a href="https://designlyfe.tech/" rel="nofollow">designlyfe.tech</a> in Buildspace Season 4 and will continue working on more open source projects. Watch my journey of 6 weeks <a href="https://buildspace.so/" rel="nofollow">here</a>. You can also check my <a href="https://www.producthunt.com/" rel="nofollow">open source resource</a> on Product Hunt that received <em>50+</em> upvotes.</p>
 <p dir="auto">😄 &nbsp; Besides that, I participate in hackathons (won 7+ competitions), make side projects, brainstorm ideas, and keep learning new stuff :)</p>
