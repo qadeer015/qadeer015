@@ -3,7 +3,7 @@
 
 
 <div align="center" dir="auto">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AbdulQadeeeer&label=Profile%20views&&amp;labelColor=%23000&amp;countColor=%230A0209" alt="AbdulQadeeeer" style="max-width: 100%;" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=qadeer015&label=Profile%20views&&amp;labelColor=%23000&amp;countColor=%230A0209" alt="qadeer015" style="max-width: 100%;" /> </p>
   
   <br><br>
   
@@ -196,8 +196,8 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.code.lines.svg"><img src="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.code.lines.svg" alt="Lines of Code &amp; Base Introduction" style="max-width: 100%;"></a></td>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.followup.svg"><img src="https://github.com/AbdulQadeeeer/AbdulQadeeeer/blob/main/assests/metrics.plugin.followup.svg" alt="Follow up Issues &amp; PRs" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/qadeer015/qadeer015/blob/main/assests/metrics.plugin.code.lines.svg"><img src="https://github.com/qadeer015/qadeer015/blob/main/assests/metrics.plugin.code.lines.svg" alt="Lines of Code &amp; Base Introduction" style="max-width: 100%;"></a></td>
+<td align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/qadeer015/qadeer015/blob/main/assests/metrics.plugin.followup.svg"><img src="https://github.com/qadeer015/qadeer015/blob/main/assests/metrics.plugin.followup.svg" alt="Follow up Issues &amp; PRs" style="max-width: 100%;"></a></td>
 </tr>
 <tr>
 <td align="center">GitHub Contributor Stars</td>
