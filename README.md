@@ -73,36 +73,8 @@
 <blockquote>
 <p dir="auto">Some of the top-performing posts that I recommend you to read.</p>
 </blockquote>
-<markdown-accessiblity-table data-catalyst=""><table>
-<thead>
-<tr>
-<th align="center">Banner</th>
-<th align="left">Details</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/9025d740-f383-40ac-89cd-c188b75d91ed" alt="open source 100x simpler" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the GitHub Community <br><br> <a href="#" rel="nofollow">A complete guide to open source - 100x simpler</a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/e8b8a468-6e59-4302-ade7-c717dadb3e90" alt="Make your portfolio in just 4 hours" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the Top 7 <br><br> <a href="#" rel="nofollow">Make your portfolio in just 4 hours? It's possible</a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/3d802c55-76b9-4638-b529-bb575ced5df4" alt="Shortcut to Find Open Source Projects 100x faster" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the Top 7 <br><br> ✧ Achieved over 20k views with 600+ reactions. <br><br> <a href="#" rel="nofollow">🎁 Shortcut to Find Open Source Projects 100x faster</a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/cb7218b0-e1a9-4a3f-b897-704e8686826b" alt="12 things you didn't know you could do with DEV" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Featured in the Top 7 <br><br> <a href="#" rel="nofollow">😁12 things you didn't know you could do with DEV</a></td>
-</tr>
-<tr>
-<td align="center"><a target="_blank" rel="noopener noreferrer" href="#"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/334284933-f3b13dba-4639-4d93-b4fa-8a1de92cbea0.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240910%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240910T070330Z&X-Amz-Expires=300&X-Amz-Signature=721ecb5de73b09e08cbf54e2cd1c345d009f64e5e527588bf965f77ce917dbe1&X-Amz-SignedHeaders=host&actor_id=105171813&key_id=0&repo_id=515827300" alt="30+ app ideas with complete source code" width="700" style="max-width: 100%;"></a></td>
-<td align="left">✧ Reached 40k+ Views <br><br> <a href="https://dev.to/copilotkit/30-app-ideas-with-complete-source-code-5f76" rel="nofollow">30+ app ideas with complete source code</a></td>
-</tr>
-</tbody>
-</table></markdown-accessiblity-table>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qadeer015&label=Profile%20views&color=0e75b6&style=flat" alt="qadeer015" /> </p>
 
 
 
