@@ -74,8 +74,9 @@
 <p dir="auto">Some of the top-performing posts that I recommend you to read.</p>
 </blockquote>
 
+<markdown-accessiblity-table data-catalyst=""><table>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=qadeer015" alt="qadeer015" /></a> </p>
-
+</table></markdown-accessiblity-table>
 
 <br>
 <hr>
