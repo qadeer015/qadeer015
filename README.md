@@ -259,7 +259,7 @@
 <markdown-accessiblity-table data-catalyst=""><table>
 <thead>
 <tr>
-<th><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=najam015&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="najam015" /></p></th>
+<th><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=qadeer015&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false" alt="qadeer015" /></p></th>
 <th><p><br> <img  src="https://github-readme-streak-stats.herokuapp.com/?user=najam015&theme=highcontrast&hide_border=false" alt="najam015" /></p>
 </th>
 </tr>
