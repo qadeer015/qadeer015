@@ -93,12 +93,12 @@ I work with [**Infiniti-dev**](https://github.com/Infiniti-dev) and **dreamslab-
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=qadeer015&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qadeer015&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=qadeer015&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub stats"/>
+<img src="https://streak-stats.demolab.com?user=qadeer015&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadeer015&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=qadeer015&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
 
 </div>
 
