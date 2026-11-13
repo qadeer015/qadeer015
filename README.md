@@ -1,265 +1,146 @@
-# 👋 Hi, I'm Abdul Qadeer
+<div align="center">
 
-### Full-Stack Web Developer | JavaScript • Node.js • Ruby on Rails • MySQL
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=140&section=header&text=Abdul%20Qadeer&fontSize=38&fontColor=e6edf3&animation=fadeIn" alt="header" width="100%"/>
 
-I build **real-world web applications, business systems, APIs, and developer tools** with a focus on clean architecture, security, maintainability, and practical problem solving.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Node.js+%7C+Rails+%7C+JavaScript;APIs%2C+RBAC+%26+Production+Systems)](https://git.io/typing-svg)
 
-I'm particularly interested in **backend development, full-stack applications, system architecture, open source, and building products that solve actual problems.**
+<br/>
 
-<p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/322279895-fe054170-c69a-41d2-8e73-f7f239ebc046.png" alt="Developer Banner" width="100%">
+[![Profile Views](https://komarev.com/ghpvc/?username=qadeer015&label=Profile%20views&color=21262d&style=for-the-badge)](https://github.com/qadeer015)
+[![Hireable](https://img.shields.io/badge/Hireable-Yes-3fb950?style=for-the-badge)](https://github.com/qadeer015)
+
+<br/>
+
+<a href="https://github.com/qadeer015"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/qadeer015/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rabdulqadeer96@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://twitter.com/qadeer015"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://discordapp.com/users/776749637826117640"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+
+</div>
+
+---
+
+## About
+
+I'm **Abdul Qadeer**, a full-stack developer focused on **business applications, secure backends, and maintainable architecture**. I ship real products — inventory, sales workflows, authentication, and APIs — not just demos.
+
+I work with [**Infiniti-dev**](https://github.com/Infiniti-dev) and **dreamslab-us**, and I'm always open to collaborating on useful software, open source, and well-designed systems.
+
+| | |
+| :--- | :--- |
+| **Focus** | Backend APIs, RBAC, database design, full-stack delivery |
+| **Stack** | Node.js, Express, Ruby on Rails, JavaScript, MySQL / PostgreSQL |
+| **Also** | Docker, Vercel, Cloudinary, Redis, HTML5 Canvas (game experiments) |
+
+---
+
+## Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white" alt="Rails"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=javascript&logoColor=black" alt="EJS"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qadeer015&label=Profile%20Views&color=0A0209&style=flat" alt="Profile Views">
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/qadeer015">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/qadeer015/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A0209?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:rabdulqadeer96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0A0209?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://discordapp.com/users/776749637826117640">
-    <img src="https://img.shields.io/badge/Discord-0A0209?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## Featured projects
 
-* 💻 Full-Stack Web Developer
-* 🔧 Building applications with **Node.js, Express.js, Ruby on Rails, JavaScript and MySQL**
-* 🏗️ Interested in **backend architecture, APIs, authentication, RBAC and database design**
-* 🔐 Focused on building applications with proper **security and access control**
-* ☁️ Experience with **Cloudinary, Vercel, Docker and GitHub**
-* 🎮 Experimenting with **HTML5 Canvas and browser game development**
-* 📚 Continuously learning software engineering, system design and better development practices
-* 🌱 Interested in contributing to and learning from open-source projects
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| [**IBC Tank Store**](https://github.com/qadeer015/ibc-tank-store) | Product catalog, admin flows, media handling, production deployment | Node · Express · MySQL · EJS · Cloudinary |
+| [**SalePoint Catalog**](https://github.com/qadeer015/salepoint-catalog) | Sales-point style catalog and business data workflows | Rails ecosystem · PostgreSQL |
+| [**SalePoint Catalog Manager**](https://github.com/qadeer015/salepoint-catalog-manager) | Data entry and product upload tooling for SalePoint | Ruby · Rails |
+| [**YouTube Agent Skill**](https://github.com/qadeer015/youtube-agent-skill) | Agent skills for scripted YouTube channel workflows | AI / automation tooling |
 
----
+<details>
+<summary><strong>More areas I build in</strong></summary>
 
-## 🧠 What I Actually Work With
+<br/>
 
-### Backend
+- **Business systems** — inventory, vendors, payments, expenses, reporting, user admin  
+- **Security** — authentication, authorization, RBAC, protected routes, API hardening  
+- **Canvas games** — modular managers (rendering, assets, audio, levels, saves) instead of monolithic scripts  
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat\&logo=rubyonrails\&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat\&logo=ruby\&logoColor=white)
-
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat\&logo=bootstrap\&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat\&logo=ejs\&logoColor=black)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat\&logo=sqlite\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat\&logo=mongodb\&logoColor=white)
-
-### Tools & Infrastructure
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat\&logo=vercel\&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat\&logo=cloudinary\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat\&logo=redis\&logoColor=white)
+</details>
 
 ---
 
-## 🛠️ What I Build
+## GitHub activity
 
-### 🏪 Business & E-Commerce Applications
+<div align="center">
 
-I work on applications that manage real business workflows, including:
+<img src="https://github-readme-stats.vercel.app/api?username=qadeer015&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile" height="165" alt="GitHub stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=qadeer015&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" alt="GitHub streak"/>
 
-* Product catalogs
-* Inventory management
-* Sales and purchasing
-* Vendor payments
-* Expenses
-* User management
-* Role-based access control
-* Authentication and authorization
-* Media/file management
-* Reporting and business logic
+<br/>
 
-### 🔐 Authentication & Authorization
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadeer015&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="165" alt="Top languages"/>
 
-I am particularly interested in designing secure application access using:
+</div>
 
-* Role-Based Access Control (RBAC)
-* Authentication
-* Authorization
-* Permission management
-* Protected routes
-* User administration
-* API security
+<div align="center">
 
-### 🎮 Web Games
+<img src="https://raw.githubusercontent.com/qadeer015/qadeer015/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 
-I also build browser games using:
-
-* HTML5 Canvas
-* JavaScript
-* Game managers
-* Rendering systems
-* Animation systems
-* Asset management
-* Audio systems
-* Level systems
-* Save systems
+</div>
 
 ---
 
-## 📌 Featured Projects
-
-### 🏪 IBC Tank Store
-
-A full-stack product/e-commerce application built around a real product catalog and business workflow.
-
-**Tech:** Node.js • Express.js • MySQL • EJS • Cloudinary • Vercel
-
-Key areas include:
-
-* Product management
-* Product images
-* Database-driven catalog
-* Admin functionality
-* Cloud media storage
-* Production deployment
-
----
-
-### 🧾 SalePoint
-
-A business management application designed around sales-point operations.
-
-The system deals with areas such as:
-
-* Products
-* Sales
-* Purchases
-* Vendors
-* Payments
-* Expenses
-* Employees
-* Roles & permissions
-* Business reporting
-
-**Tech:** Ruby on Rails • PostgreSQL • Redis • Sidekiq
-
----
-
-### 🎮 Browser Game Projects
-
-I experiment with building structured browser games rather than keeping everything inside a single JavaScript file.
-
-Current architecture concepts include:
+## Currently learning
 
 ```text
-Game Manager
-├── Screen Manager
-├── Renderer
-├── Asset Manager
-├── Tile Manager
-├── Animation Manager
-├── Audio Manager
-├── Level Manager
-└── Save Manager
+Software architecture  →  Application security  →  RBAC & permissions
+Database design        →  Docker & deployment   →  Testing & code quality
 ```
 
-The goal is to apply proper software-engineering principles even to small game projects.
+---
+
+## Philosophy
+
+> **Don't just make it work — understand why it works.**
+
+I aim for systems that are **simple, maintainable, secure, and ready to grow**. Every project is a chance to learn something worth keeping.
 
 ---
 
-## 📊 GitHub Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qadeer015&show_icons=true&theme=dark&hide_border=true" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qadeer015&theme=dark&hide_border=true" height="180">
-</p>
+### Let's connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qadeer015&layout=compact&theme=dark&hide_border=true">
-</p>
+Interested in **web development, backends, architecture, or open source**? Reach out — I'm happy to talk shop or collaborate.
 
----
+<br/>
 
-## 🐍 Contribution Graph
+<a href="https://www.linkedin.com/in/qadeer015/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="mailto:rabdulqadeer96@gmail.com"><img src="https://img.shields.io/badge/Gmail-Message-EA4335?style=for-the-badge&logo=gmail" alt="Gmail"/></a>
+<a href="https://github.com/qadeer015"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/qadeer015/qadeer015/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
-</p>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,100:0d1117&height=80&section=footer&text=Build.%20Break.%20Learn.%20Repeat.&fontSize=16&fontColor=8b949e&animation=false" alt="footer" width="100%"/>
 
-## 🎯 Currently Improving
-
-I'm currently focused on getting better at:
-
-* 🏗️ Software architecture
-* 🔐 Application security
-* 👥 RBAC and permission systems
-* 🗄️ Database design
-* 🚀 Production deployment
-* 🐳 Docker & infrastructure
-* ⚡ Backend performance
-* 🧪 Testing and code quality
-* 🔄 Git/GitHub workflows
-* 🎮 Game architecture with Canvas
-
----
-
-## 📈 My Development Philosophy
-
-> **Don't just make it work. Understand why it works.**
-
-I prefer building systems that are:
-
-**Simple → Maintainable → Secure → Testable → Scalable**
-
-I am still learning, and that's intentional.
-
-Every project is an opportunity to understand a problem more deeply and improve the way I build software.
-
----
-
-## 🤝 Let's Connect
-
-If you're interested in **web development, open source, backend engineering, software architecture, or building something useful**, feel free to connect.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/qadeer015/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a>
-  <a href="mailto:rabdulqadeer96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
-  <a href="https://twitter.com/qadeer015">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" alt="X">
-  </a>
-  <a href="https://discordapp.com/users/776749637826117640">
-    <img src="https://img.shields.io/badge/Discord-Join-purple?style=for-the-badge&logo=discord" alt="Discord">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30">
-  <br>
-  <i>Build. Break. Learn. Improve. Repeat.</i>
-</p>
+</div>
